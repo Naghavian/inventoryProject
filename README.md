@@ -1,3 +1,1 @@
 # inventoryProject
-
-test1
